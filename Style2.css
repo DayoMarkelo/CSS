@@ -1,0 +1,28 @@
+header
+h1  {color:black; line-height: 2.0em;font-family: Arial, Helvetica, sans-serif;text-align: center;font-weight:600;font-size: 40px;}
+h1 {border: dotted; border-color: white; border-radius: 15px;border-width: 4px;}
+h1 {margin-top: 30px;}
+body {background-color: whitesmoke;}
+
+h3  {margin-left: 45pc;}
+.form label {display: block;}
+
+
+.Top {
+    border: 2px solid #cf2121; border-radius: 15px;border-width: 5px;}
+    {font-size: 10px;}
+    .Top{margin-top: 40px;}
+    h2 {text-align: center;} 
+    h2 {font-size: 18px;}
+
+    .image-elotes {min-width: 33%; min-height: 33%; text-align: center;}
+    p {margin:0px auto; width: 80px;} 
+
+main
+.ingredienten {
+    border: 5px solid white;}
+.ingredienten ul {list-style: square;}
+.ingredienten {font-size: 15px; border-radius: 15px;}
+.ingredienten {margin-top: 30px;}
+.ingredienten {padding-top: 10px; padding-right: 15px; padding-bottom: 10px; padding-left: 15px}
+.ingredienten {padding: 10px 15px;}
